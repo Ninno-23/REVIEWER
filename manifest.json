@@ -1,0 +1,17 @@
+{
+  "name": "StudyVault v7 \u2014 Modern PDF + Photo Study Workspace",
+  "short_name": "StudyVault",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070b16",
+  "theme_color": "#7c6cff",
+  "description": "Private local-first study workspace with modern reviewer, flashcards, quizzes, search, notes, and photo OCR.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
