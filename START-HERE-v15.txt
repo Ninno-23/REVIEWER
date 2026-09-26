@@ -1,0 +1,10 @@
+STUDYVAULT v15 — ANDROID
+
+1. Extract the ZIP and open index.html, or host it on GitHub Pages/another HTTPS static host.
+2. On Android Chrome, install it from the browser menu when the install option appears.
+3. Import a PDF/photo. The normal reviewer works without AI.
+4. Open the AI/Tutor area and press Load AI only when you want Qwen.
+5. Keep the app open during the first model download.
+6. If your phone cannot run the neural model, StudyVault keeps using the instant source-grounded tutor.
+
+No claim of real-device certification is made; the code includes Android WebGPU/WASM fallback and low-memory safeguards.
