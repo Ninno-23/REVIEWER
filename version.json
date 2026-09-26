@@ -1,0 +1,13 @@
+{
+  "app": "StudyVault",
+  "version": 28,
+  "buildId": "2026-09-26-tutor-fix-v28",
+  "releasedAt": "2026-09-26",
+  "notes": [
+    "CRITICAL: Tutor no longer matches junk terms like What/How from exam questions",
+    "Answers use the real topic (e.g. peer pressure) and score source sentences correctly",
+    "Question-lines from the PDF are penalized so they are not returned as answers",
+    "Built-in peer pressure / plastic waste / risk reduction knowledge as backup"
+  ],
+  "minCompatible": 11
+}
