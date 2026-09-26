@@ -1,0 +1,14 @@
+{
+  "app": "StudyVault",
+  "version": 25,
+  "buildId": "2026-09-26-final-phone-v25",
+  "releasedAt": "2026-09-26",
+  "notes": [
+    "FINAL: Adaptive flashcards scale 24–200 based on PDF size/terms/components",
+    "Phone touch targets, safe-area compose, 16px inputs (no iOS zoom)",
+    "Save recovers when phone tabs sleep; clearer storage-full errors",
+    "Tutor answers instantly first, optional neural deepens after",
+    "Image read (OCR) + Create study pic + electrical/logic symbols retained"
+  ],
+  "minCompatible": 11
+}
