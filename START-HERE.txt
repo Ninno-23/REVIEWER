@@ -1,0 +1,10 @@
+STUDYVAULT v29 — EVIDENCE BRAIN
+
+1. Extract this folder and open index.html, or publish it to GitHub Pages.
+2. Import a PDF/photo.
+3. Regenerate the reviewer after updating from an older StudyVault build.
+4. Flashcards and Practice now use evidence validation. Unsupported items are discarded.
+5. Tutor answers from the loaded material first and remembers recent chat context.
+6. Enable Local AI only if your phone can handle the model.
+
+For critical school facts, the page/source evidence shown by StudyVault remains the authority.

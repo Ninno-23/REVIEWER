@@ -1,0 +1,11 @@
+{
+  "name": "StudyVault — Adaptive Study Workspace",
+  "short_name": "StudyVault",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070a12",
+  "theme_color": "#8f7cff",
+  "description": "Local-first PDF and photo reviewer with adaptive learning and optional on-device AI.",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
